@@ -1,0 +1,10 @@
+/Users/slytherinmortem/Downloads/Telegram Desktop/Lab02_KravetsMaksym/Lab02_KolisnichenkoMaksym/obj/Debug/Lab02_KolisnichenkoMaksym.csproj.AssemblyReference.cache
+/Users/slytherinmortem/Downloads/Telegram Desktop/Lab02_KravetsMaksym/Lab02_KolisnichenkoMaksym/obj/Debug/Lab02_KolisnichenkoMaksym.Form1.resources
+/Users/slytherinmortem/Downloads/Telegram Desktop/Lab02_KravetsMaksym/Lab02_KolisnichenkoMaksym/obj/Debug/Lab02_KolisnichenkoMaksym.Properties.Resources.resources
+/Users/slytherinmortem/Downloads/Telegram Desktop/Lab02_KravetsMaksym/Lab02_KolisnichenkoMaksym/obj/Debug/Lab02_KolisnichenkoMaksym.csproj.GenerateResource.cache
+/Users/slytherinmortem/Downloads/Telegram Desktop/Lab02_KravetsMaksym/Lab02_KolisnichenkoMaksym/obj/Debug/Lab02_KolisnichenkoMaksym.csproj.CoreCompileInputs.cache
+/Users/slytherinmortem/Downloads/Telegram Desktop/Lab02_KravetsMaksym/Lab02_KolisnichenkoMaksym/bin/Debug/Lab02_KolisnichenkoMaksym.exe.config
+/Users/slytherinmortem/Downloads/Telegram Desktop/Lab02_KravetsMaksym/Lab02_KolisnichenkoMaksym/bin/Debug/Lab02_KolisnichenkoMaksym.exe
+/Users/slytherinmortem/Downloads/Telegram Desktop/Lab02_KravetsMaksym/Lab02_KolisnichenkoMaksym/bin/Debug/Lab02_KolisnichenkoMaksym.pdb
+/Users/slytherinmortem/Downloads/Telegram Desktop/Lab02_KravetsMaksym/Lab02_KolisnichenkoMaksym/obj/Debug/Lab02_KolisnichenkoMaksym.exe
+/Users/slytherinmortem/Downloads/Telegram Desktop/Lab02_KravetsMaksym/Lab02_KolisnichenkoMaksym/obj/Debug/Lab02_KolisnichenkoMaksym.pdb
